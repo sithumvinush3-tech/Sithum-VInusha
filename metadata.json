@@ -1,0 +1,6 @@
+{
+  "name": "Zero-Gravity Trash Sorter",
+  "description": "Fast-paced zero-gravity physics arcade game where players sort floating space debris into Organic, Metal, and Hazard recycling pods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
